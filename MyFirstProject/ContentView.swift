@@ -31,7 +31,7 @@ struct ContentView: View {
             Text("").font(.title)
                 .padding()
         
-        }.offset(x: 0, y: 0)
+        }.offset(x: 0, y: -50)
 }
 
 struct ContentView_Previews: PreviewProvider {
